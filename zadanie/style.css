@@ -29,10 +29,6 @@ main {
     background-color: #F5F5F5; 
 }
 
-paragraf {
-    line-height: 1.6;
-    text-align: justify;
-}
 aside {
     padding: 20px;
     color: #000080;
@@ -88,4 +84,8 @@ table {
 table td, table th {
     border: 1px solid #CCC;
     padding: 8px;
+}
+a{
+    line-height: 1.6;
+    text-align: justify;
 }
