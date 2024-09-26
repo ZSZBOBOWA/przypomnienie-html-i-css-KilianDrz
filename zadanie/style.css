@@ -6,15 +6,21 @@ header {
     background-color: #000080;
 }
 
-nav {
-    display: flex;
+#nav ul {
     list-style-type: none;
-    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
-nav a {
+#nav li {
+    float: left;
+}
+
+#nav li a {
+    display: block;
+    padding: 8px;
     text-decoration: none;
-    color: white;
 }
 
 nav a:hover {
