@@ -3,7 +3,7 @@ header {
     color: white;
     font-size: 32px;
     font-family: Arial, sans-serif;
-    background-color: #000080; /* Add background color property */
+    background-color: #000080;
 }
 
 nav {
@@ -29,6 +29,10 @@ main {
     background-color: #F5F5F5; 
 }
 
+paragraf {
+    line-height: 1.6;
+    text-align: justify;
+}
 aside {
     padding: 20px;
     color: #000080;
