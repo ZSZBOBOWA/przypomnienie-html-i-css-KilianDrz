@@ -17,5 +17,14 @@
     color: white;
     font-size: 16px;
     text-align: center;
-    line-height: 100px; /* Centrowanie tekstu w pionie */
+    line-height: 100px; 
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+}
+img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
 }
