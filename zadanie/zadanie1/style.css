@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 120px;
+    width: 100%;
+    background-color: #ff00ff;
+}
+aside{
+    height: 400px;
+    width: 20%;
+    background-color: #00ff00;
+    float: left;
+}
+main{
+    min-height: 400px;
+    width: 60%;
+    background-color: #0000ff;
+    float: left;
+}
+footer{
+    height: 60px;
+    width: 100%;
+    background-color: #ffff00;
+    clear: both;
+}
